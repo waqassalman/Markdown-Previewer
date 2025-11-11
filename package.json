@@ -1,5 +1,6 @@
 {
   "name": "markdown_previewer",
+  "homepage": "https://waqassalman.github.io/Markdown-Previewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
